@@ -1,0 +1,22 @@
+### Folders
+/.idea
+/.sass-cache
+/.vagrant
+/.vscode
+/node_modules
+/public/assets
+/public/fonts
+/public/hot
+/public/storage
+/public/mix-manifest.json
+/public/rev-manifest.json
+/storage/*.key
+/vendor
+
+### Files
+.DS_Store
+.env
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
